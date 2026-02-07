@@ -1,0 +1,56 @@
+[
+  {
+    "productId": 2,
+    "productName": "Chicken manchuria",
+    "description": "Preferred by Non Vegetarians",
+    "Stock": 11
+  },
+  {
+    "productId": 4,
+    "productName": "Paneer Tikka",
+    "description": "Grilled Indian starter",
+    "Stock": true
+  },
+  {
+    "productId": 5,
+    "productName": "Fried Rice",
+    "description": "Vegetable fried rice",
+    "Stock": true
+  },
+  {
+    "productId": 6,
+    "productName": "Burger",
+    "description": "Classic beef burger",
+    "Stock": false
+  },
+  {
+    "productId": 7,
+    "productName": "Pizza Margherita",
+    "description": "Italian thin crust pizza",
+    "Stock": true
+  },
+  {
+    "productId": 8,
+    "productName": "Ice Cream",
+    "description": "Vanilla flavor scoop",
+    "Stock": true
+  },
+  {
+    "productId": 9,
+    "productName": "Sandwich",
+    "description": "Grilled cheese sandwich",
+    "Stock": false
+  },
+  {
+    "productId": 10,
+    "productName": "French Fries",
+    "description": "Crispy potato fries",
+    "Stock": true
+  },
+  {
+    "productId": 11,
+    "productName": "Test Soda",
+    "description": "Refreshing drink",
+    "Stock": true
+  }
+]
