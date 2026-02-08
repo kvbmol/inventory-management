@@ -116,6 +116,18 @@
       <div id="updateStatus"></div>
     </div>
 
+    <div class="section">
+      <h2>🗑️ Delete Product</h2>
+      <input
+        id="deleteId"
+        type="number"
+        placeholder="Enter Product ID to delete"
+        style="width: 200px;"
+      />
+      <button class="danger" onclick="deleteProduct()">Delete Product</button>
+      <div id="deleteStatus"></div>
+    </div>
+    
     <script>
       const API_BASE = "http://localhost:3000";
 
