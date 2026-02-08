@@ -3,7 +3,7 @@
     "productId": 2,
     "productName": "Chicken manchuria",
     "description": "Preferred by Non Vegetarians",
-    "Stock": 11
+    "Stock": true
   },
   {
     "productId": 4,
@@ -48,9 +48,15 @@
     "Stock": true
   },
   {
-    "productId": 11,
-    "productName": "Test Soda",
-    "description": "Refreshing drink",
+    "productId": 12,
+    "productName": "Coco Cola",
+    "description": "hot drink",
+    "Stock": true
+  },
+  {
+    "productId": 13,
+    "productName": "Biriyani",
+    "description": "Chicken biriyani",
     "Stock": true
   }
 ]
